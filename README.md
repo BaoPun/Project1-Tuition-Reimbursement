@@ -14,3 +14,10 @@ The main IDE used for this project is Eclipse.  With Eclipse, the following tech
 5. SQL
 6. JDBC
 7. Servlets
+
+# How to Run This
+First, you will need to download Eclipse, so make sure you have Eclipse ready and available.
+
+Once you have Eclipse, clone this project onto your local computer.  
+After cloning, open Eclipse, navigate to File on the top left, and click on "Open Projects From File System."
+From here, click on the folder that you cloned from, and now you should have access to the project.
